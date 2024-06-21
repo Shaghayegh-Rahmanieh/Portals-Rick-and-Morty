@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2d5b24f9e135ab148966e1d823ebeca0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pickTxt: {instanceID: 0}
+  - scoreTxt: {instanceID: 0}
+  - timertxt: {instanceID: 0}
+  - correctSound: {fileID: 8300000, guid: e8197456b34de2c4fa24756d4fd2e0e8, type: 3}
+  - incorrectSound: {fileID: 8300000, guid: 10986c57c339c154ba2a7def863c4ced, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
