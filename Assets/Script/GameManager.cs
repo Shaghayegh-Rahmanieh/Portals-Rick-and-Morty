@@ -8,8 +8,6 @@ using System.Linq;
 using UnityEngine.SceneManagement;
 
 
-//علت مقدار کپی پیست بخاطر ارور هاست چون حتی اگر کدی رو پاک می کردم باز ارور میداد پس کد درست رو از قبل کپی میکردم
-//و بخاطر نصب جداگانه یونیتی اوتو کامپلیت هم نداشتم تایپ میکردم ارور میگرفت
 // ((((((:
 
 public class GameManager : MonoBehaviour
